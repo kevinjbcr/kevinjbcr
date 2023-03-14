@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Oracle** as part of Consulting Services | HCM LAD
 
-- 🌱 I’m currently learning **React, Android, Kotlin**
+- 🌱 I’m currently learning **React, Angular, Android, Kotlin in my free time**
 
 - 💬 About me **I'm an enthusiastic person, I like to learn things. I can adapt to different environments, consulting area it has been my principal area of work last years, principally to all related to Oracle Core HCM product and his modules. I have expertise with different programming languages and tools, and always I'm learning new things of them and refreshing all this knowledge.**
 
